@@ -1,3 +1,14 @@
+---
+title: Gradio Canvas 🤗
+emoji: 🎨
+colorFrom: red
+colorTo: yellow
+sdk: gradio
+sdk_version: 5.1.0
+app_file: app.py
+pinned: false
+---
+
 # Gradio Canvas 🤗
 
 Gradio Canvas is a web application inspired by ChatGPT's Canvas. This project combines the capabilities of Fireworks AI and Instructor to create a seamless code generation experience.
