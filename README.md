@@ -35,6 +35,6 @@ Built with:
 
 Run the application:
 
-    ```bash
+    ``` bash
     gradio app.py
     ```
